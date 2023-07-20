@@ -1,9 +1,8 @@
 # PortScanner
 
 Instalacija:
-Raspakirati zip u proizvoljni direktorij.
-Datoteka portScanner je izvršna pa je moguće pokrenuti program bez instaliranog Go-a.
-> portScanner <argumenti>
+Klonirati repozitorij u lokalni direktorij.
+>git clone https://github.com/kpavlovic123/PortScanner.git
 
 
 Ako je go instaliran ("sudo apt install golang-go" na linuxu) onda je moguće pokrenuti na 3 načina:
